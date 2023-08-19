@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Inaam Ul Haq</h1>
 <h3 align="center">A passionate flutter developer from Pakistan</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/inaamflutterdev/inaamflutterdev/assets/78655793/a8330300-8a5f-4f3d-a83f-c4292f9cde0f)
+">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inaamflutterdev" alt="inaamflutterdev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/inaamflutterdev" target="blank"><img src="https://img.shields.io/twitter/follow/inaamflutterdev?logo=twitter&style=for-the-badge" alt="inaamflutterdev" /></a> </p>
