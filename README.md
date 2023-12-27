@@ -32,7 +32,6 @@
 <a href="https://fb.com/inaamflutterdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="inaamflutterdev" height="30" width="40" /></a>
 <a href="https://instagram.com/inaamflutterdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inaamflutterdev" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inaamflutterdev&show_icons=true&locale=en&layout=compact" alt="inaamflutterdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inaamflutterdev&show_icons=true&locale=en" alt="inaamflutterdev" /></p>
 
