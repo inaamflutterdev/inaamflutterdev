@@ -35,6 +35,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inaamflutterdev&show_icons=true&locale=en&layout=compact" alt="inaamflutterdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inaamflutterdev&show_icons=true&locale=en" alt="inaamflutterdev" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inaamflutterdev&" alt="inaamflutterdev" /></p>
